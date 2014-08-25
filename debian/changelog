@@ -1,3 +1,9 @@
+zacalc (0.3.3+edusantara1) anambas; urgency=low
+
+  * import to edusantara
+
+ -- Sutriyo Hutomo <sutriyo.hutomo@kemdikbud.go.id>  Mon, 25 Aug 2014 14:15:24 +0700
+
 zacalc (0.3.3) tambora; urgency=low
 
   * Release tambora
