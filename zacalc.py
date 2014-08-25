@@ -57,7 +57,7 @@ class ZaCalc(object):
 	
 	def __init__(self):
 		#gtk entry
-		self.entry1 = gtk.Entry()git@github.com:sutriyo/zacalc.git
+		self.entry1 = gtk.Entry()
 		self.entry2 = gtk.Entry()
 		self.entry3 = gtk.Entry()
 		self.entry4 = gtk.Entry()
